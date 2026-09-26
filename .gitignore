@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# 报告与临时文件
+report.json
+*.log
+_*.json
+_*.txt
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 密钥（绝不提交）
+.env
+*.token
+secrets.txt
